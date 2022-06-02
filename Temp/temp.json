@@ -1,9 +1,0 @@
-{
-    "Action": "start",
-    "EnableClassic": false,
-    "RequestScopes": {
-      "ResourceGroups": [
-        "/subscriptions/cd383f54-2043-412b-9aae-4532845877d7/resourceGroups/rg-dms-lz-001"
-        ]
-    }
-  }

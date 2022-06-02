@@ -1,1 +1,0 @@
-.\msixmgr.exe -Unpack -packagePath IsproNG_1.0.0.0_x64__qf05az6ef2jny.msix -destination "D:\Ispro" -applyacls

@@ -1,7 +1,0 @@
-az group create --location northeurope --name az204blobdemo
- 
-az storage account create --name stodemo08154711 --location northeurope --resource-group az204blobdemo --sku Standard_LRS
- 
-az storage account keys list -g az204blobdemo -n stodemo08154711
- 
-az storage account show-connection-string -g az204blobdemo -n stodemo08154711
